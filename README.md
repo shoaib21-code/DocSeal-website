@@ -69,26 +69,6 @@ DocSeal focuses on a simple workflow while still implementing real cryptographic
 
 ---
 
-## Screenshots
-
-> Screenshots are included below (paths can be adjusted to match your repo).
-
-- Home  
-  ![Home](docs/screenshots/home.png)
-
-- Key Generation  
-  ![Key Generation](docs/screenshots/key-generation.png)
-
-- Sign Document  
-  ![Sign Document](docs/screenshots/sign.png)
-
-- Verify Document  
-  ![Verify Document](docs/screenshots/verify.png)
-
-*(Replace file names/paths above with your actual screenshot filenames.)*
-
----
-
 ## Run Locally
 
 > This project contains a backend (Spring Boot), a frontend (React/Vite), and PostgreSQL.  
